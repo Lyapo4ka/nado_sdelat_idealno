@@ -17,7 +17,6 @@ html {
     display: flex;
     justify-content: center;
     position: relative;
-    background-color: #feafe8;
 }
 
 .page::before {
@@ -45,7 +44,6 @@ html {
     letter-spacing: 4.06px;
     text-transform: uppercase;
     max-width: 739px;
-    position: absolute;
     z-index: 1;
     margin: 0 auto;
     padding-top: 60px;
@@ -66,7 +64,7 @@ html {
     content: 'На самом деле нет. \AВажнее &mdash; научиться ошибаться.';
     position: absolute;
     top: 180px;
-    right: 20px;
+    right: 178px;
     max-width: 746px;
     border: 2px solid #000000;
     border-radius: 20px;
